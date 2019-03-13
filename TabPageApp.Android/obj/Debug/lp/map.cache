@@ -1,6 +1,8 @@
+FormsViewGroup
+Plugin.SimpleAudioPlayer.Abstractions
+Plugin.SimpleAudioPlayer
 System.Runtime
 TabPageApp
-FormsViewGroup
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime

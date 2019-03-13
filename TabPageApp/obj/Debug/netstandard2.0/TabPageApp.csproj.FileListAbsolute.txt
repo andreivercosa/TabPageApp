@@ -11,3 +11,4 @@
 /Users/aluno/Projects/TabPageApp/TabPageApp/obj/Debug/netstandard2.0/TabPageApp.dll
 /Users/aluno/Projects/TabPageApp/TabPageApp/obj/Debug/netstandard2.0/TabPageApp.pdb
 /Users/aluno/Projects/TabPageApp/TabPageApp/obj/Debug/netstandard2.0/PageTwo.xaml.g.cs
+/Users/aluno/Projects/TabPageApp/TabPageApp/obj/Debug/netstandard2.0/TabImg.xaml.g.cs

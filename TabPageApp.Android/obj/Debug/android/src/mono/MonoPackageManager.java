@@ -108,6 +108,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "TabPageApp.Android.dll" comes first in this list. */
 		"TabPageApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.SimpleAudioPlayer.Abstractions.dll",
+		"Plugin.SimpleAudioPlayer.dll",
 		"TabPageApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
